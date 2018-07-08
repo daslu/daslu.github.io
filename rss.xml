@@ -4,15 +4,15 @@
     <title>daslu&#39;s blog</title>
     <link>https://daslu.github.io</link>
     <description>notes</description>
-    <pubDate>Sun, 08 Jul 2018 17:42:02 IDT</pubDate>
-    <lastBuildDate>Sun, 08 Jul 2018 17:42:02 IDT</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 01:42:12 IDT</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 01:42:12 IDT</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
       <title>title1</title>
       <link>https://daslu.github.io/blog/2018/07/08/title1</link>
-      <description><![CDATA[desc]]></description>
-      <pubDate>2018-07-08</pubDate>
+      <description><![CDATA[]]></description>
+      <pubDate>2018-07-09</pubDate>
       <guid>https://daslu.github.io/blog/2018/07/08/title1</guid>
     </item>
   </channel>
